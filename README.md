@@ -17,7 +17,7 @@ The dataset is sourced from Kaggle and features both cats and dogs with various 
 #### Database
 The raw data is initially loaded into an AWS S3 bucket and then using spark, the data file is read in and converted into a dataframe. The data is cleaned and upon completion it is written into SQL tables in the RDS instance. Once the data is written to the database, it is read back from using spark and the tables are joined into one using pandas. Below is an image showing data being written to the database:
 
-![database.png](Images/database.png)
+![Database.png](Images/Database.png)
 
 #### Machine Learning Model 
 To generate predictions a neural network model is used as there are many independent factors that are influencing the outcome to account for. This method is used in hopes of creating a model that when a given animal is input into a shelter, it can predict if it will get adopted or not given its unique characteristics. This will help shelter owners know which animals to focus adoption efforts on assisting and it will also inform the public as to which dogs tend to need a home. 
