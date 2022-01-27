@@ -22,5 +22,5 @@ To generate predictions a neural network model is used as there are many indepen
 
 #### Visualization
 
-[link to dashboard](https://public.tableau.com/app/profile/lexie.walla/viz/finalprojectscratchwork/CountofEachBreed?publish=yes "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/lexie.walla/viz/finalprojectscratchwork/Story1?publish=yes "link to dashboard")
 The visualizations are completed using a story board in tableau to display 
