@@ -5,6 +5,9 @@ Predicting animal shelter outcomes based on a variety of factors.
 
 [Project Presentation](https://docs.google.com/presentation/d/1a7zfN7VgvrSrF3aFa70R0-m_T7dB8SmHga_wAXInP_U/edit?usp=sharing)
 
+
+[Link to Dashboard](https://public.tableau.com/app/profile/lexie.walla/viz/FinalProject-AnimalShelterOutcomes/Story1?publish=yes "Link to Dashboard")
+
 ### Roles: 
 Chloe has taken the role of working on database connection, Hussan worked with cleaning the data and the machine learning model, and Lexie is creating the visualizations. All team members will split the role of the presentation and dashboarding. 
 
@@ -25,4 +28,4 @@ To generate predictions a neural network model is used as there are many indepen
 #### Visualization
 The visualizations are completed using a story board in tableau to display 
 
-[link to dashboard](https://public.tableau.com/app/profile/lexie.walla/viz/FinalProject-AnimalShelterOutcomes/Story1?publish=yes "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/lexie.walla/viz/FinalProject-AnimalShelterOutcomes/Story1?publish=yes "Link to Dashboard")
