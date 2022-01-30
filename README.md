@@ -24,3 +24,5 @@ To generate predictions a neural network model is used as there are many indepen
 
 #### Visualization
 The visualizations are completed using a story board in tableau to display 
+
+[link to dashboard](https://public.tableau.com/app/profile/lexie.walla/viz/FinalProject-AnimalShelterOutcomes/Story1?publish=yes "link to dashboard")
