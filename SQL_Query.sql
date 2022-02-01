@@ -7,8 +7,12 @@ CREATE TABLE breed_info (
 CREATE TABLE shelter_info (
 animal_id TEXT,
  breed TEXT,
- date_of_birth TIMESTAMP WITHOUT TIME ZONE, 
- datetime TIMESTAMP WITHOUT TIME ZONE, 
- outcome_type TEXT,
- sex_upon_outcome TEXT
+ age DOUBLE PRECISION, 
+ Success BIGINT, 
+ Sex TEXT
+);
+
+CREATE TABLE time_in_shelter (
+ animal_id TEXT,
+ days in shelter DOUBLE PRECISION
 );
