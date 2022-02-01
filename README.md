@@ -21,4 +21,6 @@ The raw data is initially loaded into an amazon database that is connected to pg
 To generate predictions a neural network model is used as there are many independent factors that are influencing the outcome to account for. This method is used in hopes of creating a model that when a given animal is input into a shelter, it can predict if it will get adopted or not given its unique characteristics. This will help shelter owners know which animals to focus adoption efforts on assisting and it will also inform the public as to which dogs tend to need a home. 
 
 #### Visualization
+
+[link to dashboard](https://public.tableau.com/app/profile/lexie.walla/viz/finalprojectscratchwork/Story1?publish=yes "link to dashboard")
 The visualizations are completed using a story board in tableau to display 
